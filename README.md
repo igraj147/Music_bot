@@ -63,11 +63,11 @@ python3 -m Royalkifeelings  # Run the bot
 ```
 
 ### Special Credits 💖
-- [𝗧𝗵𝗲 𝗥𝗲𝗮𝗹 𝗦𝘁𝗮𝗿'™](https://github.com/Royal_boy_amit): 
+- [𝗧𝗵𝗲 𝗥𝗲𝗮𝗹 𝗦𝘁𝗮𝗿'™](https://github.com/): 
 
-- [𝗥𝗼𝘆𝗮𝗹𝗞𝗶𝗙𝗲𝗲𝗹𝗶𝗻𝗴𝘀 𝟮.𝟬](https://t.me/royalkifeelings_12) `𝗢𝘂𝗿 𝗖𝗵𝗮𝗻𝗻𝗲𝗹`
+- [𝗥𝗼𝘆𝗮𝗹𝗞𝗶𝗙𝗲𝗲𝗹𝗶𝗻𝗴𝘀 𝟮.𝟬](https://t.me/THE_CRAZY_FUN_0) `𝗢𝘂𝗿 𝗖𝗵𝗮𝗻𝗻𝗲𝗹`
 
-- [𝗔𝗱𝗶𝘁𝘆𝗮𝗛𝗮𝗹𝗱𝗲𝗿](https://t.me/AdityaHalder) `𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿`
+- [𝗔𝗱𝗶𝘁𝘆𝗮𝗛𝗮𝗹𝗱𝗲𝗿](https://t.me/rdx_raj9) `𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿`
 
 ### Support & Updates 🎑
 <a href="https://t.me/royalkifeelings"><img src="https://img.shields.io/badge/Join-Group%20Support-black.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/royalkifeelings_12"><img src="https://img.shields.io/badge/Join-Updates%20Channel-black.svg?style=for-the-badge&logo=Telegram"></a>
