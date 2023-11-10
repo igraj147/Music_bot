@@ -4,7 +4,7 @@
 </p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-round&logo=python&logoColor=black&color=white" /></a>
-    <a href="https://github.com/royalboycoder" alt="Developed by"> <img src="https://img.shields.io/badge/Developed by%3F-𝐓ɦє_𝐑єαℓ_𝐒ƭαɾ'™-black.svg?style=flat-round" /></a>
+    <a href="https://github.com/royalboycoder" alt="Developed by"> <img src="https://github.com/igraj147 by%3F-𝐓ɦє_𝐑єαℓ_𝐒ƭαɾ'™-black.svg?style=flat-round" /></a>
 </p>
 
 <h3>Requirements 📝</h3>
@@ -14,9 +14,6 @@
 - Python 3.10 or higher
 - [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
 
-### 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞 𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦 𝐒𝐭𝐫𝐢𝐧𝐠 𝐒𝐞𝐬𝐬𝐢𝐨𝐧
-
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@AdityaHalder/PyrogramStringSession)
 ## Features 🔮
 
 - Thumbnail Support
